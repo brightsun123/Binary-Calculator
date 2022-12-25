@@ -41,7 +41,6 @@
 # | 100001 |  000000  | Return previous calculation         |
 # +--------+----------+-------------------------------------+
 
-# My code below:
 class UltraSuperCalculator:
   def __init__(self, name):
     self.name = name
